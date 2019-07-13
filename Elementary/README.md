@@ -168,7 +168,7 @@ All around you are piles of old books and ancient computing machines, each with 
 ### Between Markers (simplified)
 Вам дана строка и два маркера (начальный и конечный). Вам необходимо найти текст, заключенный между двумя этими маркерами. Но есть несколько важных условий.
 
-Это упрощенная версия миссии Between Markers.
+Это упрощенная версия миссии [Between Markers](https://github.com/gattoramm/checkio/tree/master/Elementary#between-markers).
 
 * Начальный и конечный маркеры всегда разные.
 * Начальный и конечный маркеры всегда размером в один символ.
